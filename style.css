@@ -1,0 +1,30 @@
+body {
+    /* background-color: blue; */
+    /* background-color: rgb(0, 0, 0); */
+    /* background-color: rgba(50, 12, 198, 0.5); */
+    /* background-color: #3b5998; */
+    /* background-image: url("../images/micro_carbon.png");
+    background-repeat: no-repeat; */
+    background-image: url(../images/mountain.jpg);
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: 200px;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
+
+#language {
+    font-size: 80px;
+    color: green;
+}
+
+.some-text {
+    color: blue;
+}
+
+#text {
+    color: yellow;
+}
